@@ -12,3 +12,5 @@ an Electron app, so you can have a standalone Messenger app again.
 It's virtually indistinguishable from the original Messenger app,
 making it even more obvious that Facebook's decision to shut it down
 was deliberately anti-consumer.
+
+Yes, this might be *the* simplest functional Electron app ever made.
